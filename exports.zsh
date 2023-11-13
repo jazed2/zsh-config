@@ -1,0 +1,3 @@
+## Exports 
+
+export VISUAL=nvim
